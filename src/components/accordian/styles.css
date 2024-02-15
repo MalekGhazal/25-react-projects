@@ -10,11 +10,13 @@
 
 .wrapper button {
   padding: 10px 20px;
-  background: #614101;
+  background: #374d63;
   color: #fff;
   font-weight: bold;
   font-size: 20px;
   cursor: pointer;
+  border-radius: 15px;
+  border: none;
 }
 
 .accordian {
